@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">Angel with long wings</string>
+    <string name="author1">Stephen</string>
+    <string name="year1">(2013)</string>
+    <string name="title2">holding microphone</string>
+    <string name="author2">Ricky</string>
+    <string name="year2">(2021)</string>
+    <string name="title3">festival</string>
+    <string name="author3">Charles putin</string>
+    <string name="year3">(2015)</string>
+    <string name="title4">cosmic poster</string>
+    <string name="author4">meenesh</string>
+    <string name="year4">(2022)</string>
+</resources>
